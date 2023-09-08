@@ -1,0 +1,6 @@
+Room Number : 45 | Type : S | Daily Rent : 77.000
+Room Number : 45 | Type : S | Daily Rent : 77.000
+Room Number : 7 | Type : T | Daily Rent : 25.000
+Room Number : 1 | Type : S | Daily Rent : 85.000
+Room Number : 8 | Type : T | Daily Rent : 12.000
+Room Number : 65 | Type : D | Daily Rent : 45.000

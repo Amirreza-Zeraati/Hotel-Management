@@ -1,0 +1,5 @@
+Booking ID : 2 | Name : arisu | Address : japan | Phone : 09398912574 | Advance Payment : 0
+Booking ID : 25 | Name : reza | Address : sabzevar | Phone : 12345678912 | Advance Payment : 750
+Booking ID : 8 | Name : ali | Address : karaj | Phone : 09395471254 | Advance Payment : 200
+Booking ID : 2 | Name : mohammad | Address : karaj | Phone : 09395474125 | Advance Payment : 450
+Booking ID : 78 | Name : sara | Address : german | Phone : 09398914756 | Advance Payment : 800
