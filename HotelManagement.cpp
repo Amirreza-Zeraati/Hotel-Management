@@ -1,7 +1,3 @@
-
-//----- Amirreza Zeraati -----
-
-
 //libraries
 #include<iostream>
 #include<string.h>
